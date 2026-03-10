@@ -2,7 +2,7 @@
 
 <p align="left">
 Me chamo <b>Kauã Lucas</b> 👨‍💻<br>
-Estudante de Ciência da Computação focado em <b>Desenvolvimento Front-End</b>.<br>
+Estudante de Ciência da Computação focado em <b>Desenvolvimento Web</b>.<br>
 Transformo ideias em interfaces modernas, rápidas e intuitivas.
 </p>
 
@@ -11,8 +11,9 @@ Transformo ideias em interfaces modernas, rápidas e intuitivas.
 <h2 align="left">🚀 Sobre mim</h2>
 
 <p align="left">
-📚 Estudando HTML, CSS, JavaScript e fundamentos de Ciência de Dados<br>
-📊 Explorando análise e visualização de dados<br>
+💻 Experiência em Front-End e conhecimentos em Back-End<br>
+🛠️ HTML, CSS, JavaScript e lógica de programação<br>
+📚 Aprofundando conhecimentos em Desenvolvimento Web e Ciência de Dados<br>
 🎯 Objetivo: me tornar desenvolvedor profissional e viver de tecnologia<br>
 ⚡ Aprendo melhor criando projetos práticos e resolvendo problemas reais
 </p>
