@@ -50,6 +50,6 @@ Transformo ideias em interfaces modernas, rápidas e intuitivas.
 
 <p align="left">
 📧 Email: lkaua370@icloud.com<br>
-💼 LinkedIn (adicione depois)<br>
+💼 LinkedIn www.linkedin.com/in/kaua-lucas-b5180335a<br>
 🌎 São Paulo - Brasil
 </p>
